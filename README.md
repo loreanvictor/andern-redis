@@ -10,12 +10,8 @@
 
 </div>
 
-<img src="./logo-dark.svg#gh-dark-mode-only" height="42px"/>
-<img src="./logo-light.svg#gh-light-mode-only" height="42px"/>
-
-# @andern/redis
-
-redis binding for andern
+<img src="./logo-dark.svg#gh-dark-mode-only" height="108px"/>
+<img src="./logo-light.svg#gh-light-mode-only" height="108px"/>
 
 ```js
 // a nice code example here

@@ -1,6 +1,6 @@
 {
   "name": "@andern/redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "redis binding for andern",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
